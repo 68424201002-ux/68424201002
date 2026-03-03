@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+#container{
+     background-color:  orange;
+     width: 80%;
+     margin: 10px auto;
+     height: 600px;
+}
+#header{
+    width:100%;
+    background-color: aqua ;
+    height: 45px;
+    margin-bottom: 3px;
+}
+#link{
+     height: 25px;
+     background-color:orange;
+     margin-bottom: 3px;
+
+}
+#content{
+    width: 100%;
+    background-color: black;
+    height: 500px;
+}
